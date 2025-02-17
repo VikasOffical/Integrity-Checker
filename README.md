@@ -1,3 +1,17 @@
+                                                        Integrity-Checker
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+COMPANY: CODETECH IT SOLUTIONS
+
+NAME: GYANMOTAY VIKAS
+
+INTERN ID: CT12RGV
+
+DOMAIN: CYBER SECURIY
+
+DURATION: 8 WEEKS
+
+MENTOR: NEELA SANTOSH
+
 File Integrity Checker 🔍
 
 Overview
@@ -54,4 +68,6 @@ License
 This project is licensed under the MIT License.
 
 Contributions are welcome! Feel free to submit pull requests or open issues to improve the project. 🚀
+
+**OUTPUT
 
