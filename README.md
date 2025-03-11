@@ -20,12 +20,12 @@
 ### Whether you're a system administrator, ethical hacker, or security professional, this tool empowers you to detect file tampering before it becomes a major security incident.
 
 # **🚀 Key Features**
-## ✅ Automated File Integrity Checking – Instantly detects unauthorized modifications.
-## ✅ Real-Time Change Detection – Alerts users of file modifications, deletions, and creations.
-## ✅ Multi-Algorithm Support – Choose between SHA-256, SHA-512, and MD5 for hashing verification.
-## ✅ Comprehensive Logging – Stores event details for forensics and compliance auditing.
-## ✅ Lightweight & Efficient – Minimal system resource usage while providing high reliability.
-## ✅ User-Friendly CLI – Easy-to-use interface for seamless interaction.
+### ✅ Automated File Integrity Checking – Instantly detects unauthorized modifications.
+### ✅ Real-Time Change Detection – Alerts users of file modifications, deletions, and creations.
+### ✅ Multi-Algorithm Support – Choose between SHA-256, SHA-512, and MD5 for hashing verification.
+### ✅ Comprehensive Logging – Stores event details for forensics and compliance auditing.
+### ✅ Lightweight & Efficient – Minimal system resource usage while providing high reliability.
+### ✅ User-Friendly CLI – Easy-to-use interface for seamless interaction.
 
 # **🛠️ How It Works?**
 ## 🔹 Step 1: Input Directory Path
@@ -86,7 +86,7 @@
 ## 💡 Want to monitor your files? Run the FIM & stay secure! 🚀
 
 # **🛠️ Technologies Used**
-## 🔹 Python (Core programming)
-## 🔹 Watchdog (Real-time file monitoring)
-## 🔹 Hashlib (Cryptographic hashing – SHA-256, MD5, SHA-512)
-## 🔹 Logging (Event tracking & reporting)
+### 🔹 Python (Core programming)
+### 🔹 Watchdog (Real-time file monitoring)
+### 🔹 Hashlib (Cryptographic hashing – SHA-256, MD5, SHA-512)
+### 🔹 Logging (Event tracking & reporting)
