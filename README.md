@@ -27,6 +27,7 @@
 ### ✅ Lightweight & Efficient – Minimal system resource usage while providing high reliability.
 ### ✅ User-Friendly CLI – Easy-to-use interface for seamless interaction.
 
+
 # **🛠️ How It Works?**
 ## 🔹 Step 1: Input Directory Path
 ### Users specify the directory to monitor.
